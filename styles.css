@@ -1,3 +1,7 @@
 .altocolumna {
     height: 416px;
 }
+
+img {
+    object-fit: cover;
+}
